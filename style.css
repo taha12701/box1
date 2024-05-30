@@ -1,0 +1,43 @@
+*
+{
+  margin: 0;
+  border: border-box;  
+  font-family: Arial;
+  background-color: azure;
+}
+
+.box-sec{
+  display: flex;
+  justify-content: space-evenly;
+  flex: wrap;
+  background-color: #DDDD;
+  
+}
+
+
+.box{
+  height: 400px;
+  width: 23%;
+  margin-top: 20px;
+  padding: 20px 0px 15px;
+ 
+}
+
+.box-img{
+  height: 320px;
+  background-image: contain;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.box-content{
+  margin-left: 15px;
+  margin-right: 15px;
+  
+}
+
+.box-content p
+{
+  color: #007185;
+  
+}
